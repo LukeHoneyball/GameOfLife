@@ -1,4 +1,4 @@
-# GameOfLife
+# Game Of Life
 Conway's Game of Life in CPP with SDL...
 
 
