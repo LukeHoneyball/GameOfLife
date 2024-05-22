@@ -9,4 +9,6 @@ Press **R** to reset the screen
 
 
 Press **C** to change color
+
+
 Hold **CTRL** + click to remove a cell
